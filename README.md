@@ -1,4 +1,5 @@
-![img.png](img.png)![img_1.png](img_1.png)[img_4.png](img_4.png) <img width="1907" height="901" alt="img_3 (2)" src="https://github.com/user-attachments/assets/08f00a1d-58e9-4ab7-b633-0862bfc084f7" /> <img width="1618" height="999" alt="img_2 (1)" src="https://github.com/user-attachments/assets/c6c449bb-9f26-4d72-aa97-bd982fdfa1b3" />
+![img.png](img.png)![img_1.png](img_1.png)[img_4.png](img_4.png) <img width="1907" height="901" alt="img_3 (2)" src="https://github.com/user-attachments/assets/08f00a1d-58e9-4ab7-b633-0862bfc084f7" /> <img width="1618" height="999" alt="img_2 (1)" src="https://github.com/user-attachments/assets/c6c449bb-9f26-4d72-aa97-bd982fdfa1b3" /> <img width="459" height="407" alt="img_4 (1)" src="https://github.com/user-attachments/assets/26fc2851-1133-4ad5-8f66-50441c13b0a3" />
+
 
 # Student Management System
 
