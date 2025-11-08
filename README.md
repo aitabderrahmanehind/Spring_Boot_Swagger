@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/aitabderrahmanehind/Spring_Boot_Swagger
    ```
 2. Navigate to the project directory:
    ```bash
