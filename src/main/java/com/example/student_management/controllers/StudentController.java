@@ -1,6 +1,9 @@
 package com.example.student_management.controllers;
 
 import com.example.student_management.entities.Student;
+
+import io.swagger.v3.oas.annotations.Operation;
+import com.example.student_management.entities.Student;
 import com.example.student_management.services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -32,7 +35,7 @@ public class StudentController {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
     }
-
+    @Operation(summary = "Récupérer tous les étudiants")
     @GetMapping("/all")
     public ResponseEntity<List<Student>> findAll() {
         List<Student> students = studentService.findAll();
